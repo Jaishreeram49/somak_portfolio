@@ -1,2 +1,2 @@
 # somak_portfolio
-codsoft_level_1_portfolio
+https://jaishreeram49.github.io/somak_portfolio/main.html
